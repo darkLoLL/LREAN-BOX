@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "de7a3c64d1c251cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "02602d9d8cf32a0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dca8ea76cfa3360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "微分方程/微分方程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4279485ff42b3b26",
+    "type": "split",
+    "children": [
+      {
+        "id": "bab76de2fb1da5f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5bc3feaff3737c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf3284364a27cdf7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e04fed824ac3acdd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f09446be5c972ade",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0653e81486337423",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed867c342c5e5bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c30f88667ae0dab6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "微分方程/微分方程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8cbe3540de8f697a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "微分方程/微分方程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f45596bd663941c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e0c9eab1f379a24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "微分方程/微分方程.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1dca8ea76cfa3360",
+  "lastOpenFiles": [
+    "微分方程/泊松方程.md",
+    "单片机/printf重定向.md",
+    "单片机/i2c通信.md",
+    "README.md",
+    "programm/git/git flow工作流.md",
+    "programm/git/git使用.md",
+    "note/关于obsdian.md",
+    "programm/CMake/cmake.md",
+    "单片机/实例/关于stlink的连接.md",
+    "单片机/实例/ADS1115.md",
+    "单片机/实例/DX711压力传感器.md",
+    "单片机/实例/img/配置寄存器.webp",
+    "单片机/实例/img/18581341-e11a9eaf3d8f911b.webp",
+    "单片机/实例/img",
+    "单片机/实例",
+    "单片机/i2c通信/i2c通信.md",
+    "单片机/i2c通信",
+    "微分方程/微分方程.md",
+    "programm/关于跨平台应用开发.md",
+    "CMake/cmake.md",
+    "programm",
+    "CMake",
+    "programm/Qt/使用Qt图标.md",
+    "微分方程",
+    "programm/Qt/主窗口/QMainWindow.md",
+    "programm/Qt/Lambda表达式.md",
+    "programm/Qt/控件.md",
+    "programm/Qt/槽函数.md",
+    "programm/Qt/对话框/QDialog.md",
+    "未命名.canvas",
+    "物理学史",
+    "programm/git",
+    "2023-04-11.md",
+    "2023-04-09.md",
+    "note",
+    "programm/Qt/QWidget.md",
+    "programm/Qt/PyQt5及其配置.md",
+    "tmeplate/多行公式.md",
+    "tmeplate"
+  ]
+}
