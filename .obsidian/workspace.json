@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "02602d9d8cf32a0e",
+        "id": "e9b8dee29a917cf8",
         "type": "tabs",
         "children": [
           {
-            "id": "1dca8ea76cfa3360",
+            "id": "116e940a1faf66ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微分方程/微分方程.md",
+                "file": "Office/Excel/Excel中使用正则.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "微分方程/微分方程.md",
+                "file": "Office/Excel/Excel中使用正则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "微分方程/微分方程.md",
+                "file": "Office/Excel/Excel中使用正则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "微分方程/微分方程.md"
+                "file": "Office/Excel/Excel中使用正则.md"
               }
             }
           }
@@ -154,26 +154,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1dca8ea76cfa3360",
+  "active": "116e940a1faf66ca",
   "lastOpenFiles": [
-    "微分方程/泊松方程.md",
-    "单片机/printf重定向.md",
-    "单片机/i2c通信.md",
-    "README.md",
     "programm/git/git flow工作流.md",
+    "Office/Excel/Excel中使用正则.md",
+    "Office/Excel",
+    "Office",
     "programm/git/git使用.md",
-    "note/关于obsdian.md",
-    "programm/CMake/cmake.md",
-    "单片机/实例/关于stlink的连接.md",
+    "programm/opencv/python opencv.md",
+    "单片机/实例/关于 stlink 的连接.md",
+    "programm/opencv",
+    "单片机/实例/DX711 压力传感器.md",
+    "单片机/实例/img/debug配置.png",
+    "单片机/实例/img/寄存器.png",
+    "单片机/实例/img/寄存器选择.png",
+    "单片机/实例/img/svd.png",
+    "单片机/实例/img/官网.png",
+    "单片机/实例/img/load.png",
     "单片机/实例/ADS1115.md",
-    "单片机/实例/DX711压力传感器.md",
+    "单片机/i2c 通信.md",
+    "单片机/printf 重定向.md",
+    "programm/CMake/Cmake.md",
+    "物理学史/原子核模型理论.md",
+    "未命名.canvas",
+    "微分方程/泊松方程.md",
+    "微分方程/微分方程.md",
+    "obsdion/关于obsdian.md",
+    "README.md",
     "单片机/实例/img/配置寄存器.webp",
     "单片机/实例/img/18581341-e11a9eaf3d8f911b.webp",
     "单片机/实例/img",
     "单片机/实例",
     "单片机/i2c通信/i2c通信.md",
     "单片机/i2c通信",
-    "微分方程/微分方程.md",
     "programm/关于跨平台应用开发.md",
     "CMake/cmake.md",
     "programm",
@@ -185,15 +198,8 @@
     "programm/Qt/控件.md",
     "programm/Qt/槽函数.md",
     "programm/Qt/对话框/QDialog.md",
-    "未命名.canvas",
     "物理学史",
-    "programm/git",
     "2023-04-11.md",
-    "2023-04-09.md",
-    "note",
-    "programm/Qt/QWidget.md",
-    "programm/Qt/PyQt5及其配置.md",
-    "tmeplate/多行公式.md",
-    "tmeplate"
+    "2023-04-09.md"
   ]
 }
