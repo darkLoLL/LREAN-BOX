@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9b8dee29a917cf8",
+        "id": "8d6e8c1892e9b870",
         "type": "tabs",
         "children": [
           {
-            "id": "116e940a1faf66ca",
+            "id": "50a9e110541bb846",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Office/Excel/Excel中使用正则.md",
+                "file": "Latex/编译Makefile.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Office/Excel/Excel中使用正则.md",
+                "file": "Latex/编译Makefile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Office/Excel/Excel中使用正则.md",
+                "file": "Latex/编译Makefile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Office/Excel/Excel中使用正则.md"
+                "file": "Latex/编译Makefile.md"
               }
             }
           }
@@ -154,27 +154,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "116e940a1faf66ca",
+  "active": "50a9e110541bb846",
   "lastOpenFiles": [
-    "programm/git/git flow工作流.md",
+    "Latex/Latex安装.md",
+    "Latex/Latex语法.md",
+    "Latex/编译Makefile.md",
+    "programm/CMake/Cmake.md",
+    "未命名",
+    "programm/Qt/QMainWindow.md",
+    "programm/Qt/QWidget.md",
+    "单片机/实例/DX711 压力传感器.md",
+    "单片机/实例/关于 stlink 的连接.md",
+    "单片机/printf 重定向.md",
+    "单片机/i2c 通信.md",
+    "单片机/实例/ADS1115.md",
+    "programm/Qt/图标类/qtcharts.md",
+    "programm/Qt/图标类",
+    "programm/Qt/Lambda表达式.md",
+    "programm/Qt/使用Qt图标.md",
+    "programm/Qt/QDialog.md",
     "Office/Excel/Excel中使用正则.md",
+    "Latex",
+    "programm/git/git flow工作流.md",
     "Office/Excel",
     "Office",
     "programm/git/git使用.md",
     "programm/opencv/python opencv.md",
-    "单片机/实例/关于 stlink 的连接.md",
     "programm/opencv",
-    "单片机/实例/DX711 压力传感器.md",
     "单片机/实例/img/debug配置.png",
     "单片机/实例/img/寄存器.png",
     "单片机/实例/img/寄存器选择.png",
     "单片机/实例/img/svd.png",
     "单片机/实例/img/官网.png",
     "单片机/实例/img/load.png",
-    "单片机/实例/ADS1115.md",
-    "单片机/i2c 通信.md",
-    "单片机/printf 重定向.md",
-    "programm/CMake/Cmake.md",
     "物理学史/原子核模型理论.md",
     "未命名.canvas",
     "微分方程/泊松方程.md",
@@ -188,18 +200,6 @@
     "单片机/i2c通信/i2c通信.md",
     "单片机/i2c通信",
     "programm/关于跨平台应用开发.md",
-    "CMake/cmake.md",
-    "programm",
-    "CMake",
-    "programm/Qt/使用Qt图标.md",
-    "微分方程",
-    "programm/Qt/主窗口/QMainWindow.md",
-    "programm/Qt/Lambda表达式.md",
-    "programm/Qt/控件.md",
-    "programm/Qt/槽函数.md",
-    "programm/Qt/对话框/QDialog.md",
-    "物理学史",
-    "2023-04-11.md",
-    "2023-04-09.md"
+    "programm"
   ]
 }
